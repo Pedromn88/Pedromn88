@@ -21,7 +21,7 @@ No estoy muy acostumbrado a las presentaciones y parece mentira que después de 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-## Contact & support
+<h1>## Design</h1>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -30,5 +30,5 @@ No estoy muy acostumbrado a las presentaciones y parece mentira que después de 
 
 
 
-<h1 style="color: blue">## Contact & support</h1>
+<h1>## Contact & support</h1>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)

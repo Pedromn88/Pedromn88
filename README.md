@@ -33,4 +33,4 @@ No estoy muy acostumbrado a las presentaciones y parece mentira que después de 
 
 
 <h1 style="color:#456653">## Contact & support</h1>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
